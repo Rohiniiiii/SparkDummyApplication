@@ -1,4 +1,3 @@
-'cat' is not recognized as an internal or external command,
 pipeline {
     agent any
     tools {
